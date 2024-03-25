@@ -1,11 +1,13 @@
 body {
-    display: flex;
+    display: grid;
     justify-content: center;
     margin: 8vh;
 }
 
 .fst {
-    border: 1px solid red;
+    display: grid;
+    place-items: center;
+    /* border: 1px solid red; */
     padding: 2rem;
 }
 
