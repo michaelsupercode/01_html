@@ -7,10 +7,8 @@ body {
 .fst {
     display: grid;
     place-items: center;
-    /* border: 1px solid red; */
     padding: 2rem;
-    /* transition: box-shadow .3s;
-    background: #fff; */
+  
 }
 
 .fst:hover {
