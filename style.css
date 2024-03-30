@@ -11,8 +11,12 @@ body {
     box-shadow: 0 0 21px rgba(160, 159, 159, 0.2);
 }
 
+ul {
+    margin: 5vh;
+}
+
 h6 {
-    margin: 15vh;
+    margin: 10vh;
     text-align: center;
     /* color: white; */
     }
